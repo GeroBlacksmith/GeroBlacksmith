@@ -1,8 +1,8 @@
 # Gerardo Herrera--@geroblacksmith 
 
-<!--
+
 [![](https://pbs.twimg.com/profile_images/1147119661726806016/wIhmxMjS_400x400.png)](https://https://twitter.com/GeroBlacksmith)
--->
+
 
 ### Hi there 👋
 
