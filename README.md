@@ -1,7 +1,7 @@
 # Gerardo Herrera--@geroblacksmith 
 
+![339821291348103015](https://github.com/GeroBlacksmith/GeroBlacksmith/assets/7440621/fc85bf86-de01-42c3-b032-768dc68613cb)
 
-[![](https://pbs.twimg.com/profile_images/1147119661726806016/wIhmxMjS_400x400.png)](https://https://twitter.com/GeroBlacksmith)
 
 
 ### Hi there 👋
