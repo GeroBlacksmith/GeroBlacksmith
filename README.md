@@ -1,3 +1,96 @@
+# Hi! I'm Gerardo Herrera 👋
+I'm a Full Stack Developer with over 6 years of experience, passionate about building robust and scalable web applications. Currently, I work at Globant, where I lead the development of complex solutions using cutting-edge technologies.
+
+My main focus is the JavaScript/TypeScript ecosystem, and I have solid experience working with modern frameworks for both frontend and backend development.
+
+### 🚀 My Key Skills
+**Languages**:
+
+JavaScript/TypeScript (Expert)
+
+Python
+
+**Frontend**:
+
+Angular (Expert)
+
+Next.js (Expert)
+
+Vue.js (Expert)
+
+React
+
+**Backend**:
+
+Node.js (Expert)
+
+NestJS (Expert)
+
+Express.js
+
+**Databases**:
+
+MariaDB, PostgreSQL, NoSQL databases
+
+**Cloud & DevOps**:
+
+Amazon Web Services (S3, transcoders)
+
+**Mobile**:
+
+React Native, (previous knowledge in native Android and iOS)
+
+**Other**:
+
+Git, Gulp, Modern build systems
+
+Hardware (Raspberry Pi, Arduino, GPIO)
+
+Game Development (Unity, Godot, PhaserJS)
+
+### 💼 Featured Experience
+**Full Stack Developer @ Globant | 2021 - Present**
+
+Lead development with Next.js/NestJS, improving application architecture and performance.
+
+Implement scalable solutions and maintain high-quality code.
+
+Collaborate in multidisciplinary teams to deliver complex projects on time.
+
+**Full Stack Developer @ Patagonian.it | 2019 - 2021**
+
+Developed multiple projects using various technologies.
+
+Migrated Angular applications and worked with Next.js and Vue.js.
+
+Integrated AWS services for multimedia processing.
+
+### 🌱 Interests and Personal Projects
+I love learning and experimenting with new technologies. Currently, my professional interests are focused on:
+
+Artificial Intelligence applied to language learning.
+
+Internet of Things (IoT) and embedded development.
+
+Digital music production and audio processing.
+
+Additionally, I have participated in Game Jams and developed video games, exploring my passion for game development.
+
+### 🌐 Let's Connect
+LinkedIn: Gerardo Herrera
+
+Email: gerardo.herrera.dev@gmail.com
+
+### Languages
+Spanish: Native
+
+English: Advanced (C1 in progress)
+
+Japanese: Intermediate
+
+Hindi: Basic
+
+
 # ¡Hola! Soy Gerardo Herrera 👋
 Soy un Desarrollador Full Stack con más de 6 años de experiencia, apasionado por construir aplicaciones web robustas y escalables. Actualmente, me desempeño en Globant, donde lidero el desarrollo de soluciones complejas utilizando tecnologías de vanguardia.
 
